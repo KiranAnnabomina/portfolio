@@ -20,7 +20,7 @@ import { WorkExperienceComponent } from './work-experience/work-experience.compo
     PersonalInformationComponent,
     ProjectsComponent,
     SkillsComponent,
-    WorkExperienceComponent
+    WorkExperienceComponent,
   ],
   imports: [
     BrowserModule,
